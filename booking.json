@@ -1,0 +1,12 @@
+[
+    {
+        "BookingID":1,
+        "Name":"saurabh",
+        "Date":"23-09-2020"
+    },
+    {
+        "BookingID":2,
+        "Name":"anton",
+        "Date":"15-09-2020"
+    }
+]

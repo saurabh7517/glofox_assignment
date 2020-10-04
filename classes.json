@@ -1,0 +1,14 @@
+[
+    {
+        "ClassID":1,
+        "Name":"Pilates",
+        "StartDate":"23-09-2020",
+        "EndDate": "26-09-2020"
+    },
+    {
+        "ClassID":2,
+        "Name":"HIIT",
+        "StartDate":"15-09-2020",
+        "EndDate":"26-09-2020"
+    }
+]
